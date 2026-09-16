@@ -125,7 +125,7 @@ def main():
 
     while True:
         print()
-        print("LIBRARY USER MENU")
+        print("LIBRARY USER SYSTEM")
         print("-" * 60)
         print("1. Search books by title")
         print("2. Search books by category")
